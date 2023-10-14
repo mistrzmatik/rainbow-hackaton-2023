@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedingTurtlesBot", "SpeedingTurtlesBot\SpeedingTurtlesBot.csproj", "{BE8D2C71-E591-4C15-A99B-3FEE13F4322D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8D2C71-E591-4C15-A99B-3FEE13F4322D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8D2C71-E591-4C15-A99B-3FEE13F4322D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8D2C71-E591-4C15-A99B-3FEE13F4322D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8D2C71-E591-4C15-A99B-3FEE13F4322D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
